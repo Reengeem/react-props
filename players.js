@@ -67,5 +67,3 @@ export const players = [
       "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
   },
 ];
-
-export default players;
