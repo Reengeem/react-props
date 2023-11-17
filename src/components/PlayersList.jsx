@@ -1,6 +1,6 @@
 import React from "react";
 import { players } from "../../players.js";
-import Player from "./player";
+import Player from "./Player.jsx";
 
 export const PlayersList = () => {
   return (
