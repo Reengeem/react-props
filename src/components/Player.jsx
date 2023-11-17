@@ -1,8 +1,6 @@
 import React from "react";
-import Button from "react-bootstrap/Button";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Card from "react-bootstrap/Card";
-import { propTypes } from "react-bootstrap/esm/Image";
 import PropTypes from "prop-types";
 
 const Player = ({

@@ -1,7 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types";
+import { players } from "../../players";
 import Player from "./player";
-import Players, { players } from "../../players";
 
 export const PlayersList = () => {
   return (
